@@ -12,6 +12,7 @@ Folder contents:
 - Fills:
     - fit_on_all_fills: emittance growth of 8 family partition averaged over 14 fills with filling scheme '25ns_2460b_2448_2089_2227_144bpi_20inj'
     - ips: emittance growth of 8 family partition averaged over 14 fills, partitioned with ips
+    - lumi: luminosity variations over all fills
 - MD: MD15363
     -average: ATLAS and CMS average luminosity evolution
     - emittance_plots1: emittance evolution
